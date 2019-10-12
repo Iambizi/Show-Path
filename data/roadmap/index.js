@@ -25,6 +25,7 @@ import webScraping from './webScraping';
 import csharp from './csharp';
 import elixir from './elixir';
 import gameDeveloper from './gameDeveloper';
+import java from './java';
 
 const RoadMap = {
 	fullstack,
@@ -46,6 +47,7 @@ const RoadMap = {
 	reactjs,
 	nodejs,
 	devops,
+	java,
 	'front-end': frontend,
 	'back-end': backend,
 	'machine-learning': machineLearning,
