@@ -26,7 +26,6 @@ import webScraping from './webScraping';
 import csharp from './csharp';
 import elixir from './elixir';
 import gameDeveloper from './gameDeveloper';
-import java from './java';
 
 const RoadMap = {
 	fullstack,
@@ -43,7 +42,6 @@ const RoadMap = {
 	desktop,
 	ios,
 	php,
-	java,
 	android,
 	angular,
 	reactjs,
